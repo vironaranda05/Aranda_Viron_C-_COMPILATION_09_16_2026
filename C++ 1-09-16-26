@@ -21,8 +21,8 @@ int main()  {
 
 
 int 	age		= 20;	//whole number
-		 ^	 ^		   ^
-		types	variables	  value
+ ^	     ^		   ^
+types variables	  value
 
 #include<iostream>
 #include<string>
